@@ -1,0 +1,44 @@
+_repo: Working-With-the-Hands-Being-a-Sequel-to-Up-from-Slavery-Covering-the-Author-s-Experiences-in__64504
+_version: 0.0.1
+contributor:
+  photographer:
+    agent_name: Johnston, Frances Benjamin
+    birthdate: 1864
+    deathdate: 1952
+    gutenberg_agent_id: '52934'
+    url: http://www.gutenberg.org/2009/agents/52934
+    wikipedia: https://en.wikipedia.org/wiki/Frances_Benjamin_Johnston
+creator:
+  author:
+    agent_name: Washington, Booker T.
+    alias: Washington, Booker Taliaferro
+    birthdate: 1856
+    deathdate: 1915
+    gutenberg_agent_id: '880'
+    url: http://www.gutenberg.org/2009/agents/880
+    wikipedia: https://en.wikipedia.org/wiki/Booker_T._Washington
+description: ''
+gutenberg_issued: '2021-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64504'
+  lccn: '04012107'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E151'
+- !lcsh 'Washington, Booker T., 1856-1915'
+- !lcsh 'Tuskegee Institute'
+- GITenberg
+tableOfContents: Moral values of hand work -- Training for conditions -- A battle
+  against prejudice -- Making education pay its way -- Building up a system -- Welding
+  theory and practice -- Head and hands together -- Lessons in home-making -- Outdoor
+  work for women -- Helping the mothers -- The tillers of the ground -- Pleasure and
+  profit of work in the soil -- On the experimental farm -- The eagerness for learning
+  -- The value of small things -- Religious influences at Tuskegee -- Some tangible
+  results -- Spreading the Tuskegee spirit -- Negro education not a failure.
+title: "Working With the Hands\r\nBeing a Sequel to \"Up from Slavery,\" Covering\
+  \ the Author's Experiences in Industrial Training at Tuskegee"
+url: http://www.gutenberg.org/ebooks/64504
